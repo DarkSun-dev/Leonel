@@ -1,6 +1,6 @@
 
 module.exports = {
     mongodb: {
-        uri: 'mongodb://127.0.0.1:27017/leonel'
+        uri: 'mongodb+srv://leonel:Leonel5@2023@cluster0.3w50pfo.mongodb.net/'
     }
 }
